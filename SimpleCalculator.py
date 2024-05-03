@@ -5,7 +5,6 @@
 
 # Simple Calculator: This calculator provides a simple command-line interface where the user selects an operation 
 # (addition, subtraction, multiplication, or division) and enters two numbers to perform the selected operation. 
-# It's elementary in the sense that it covers basic arithmetic operations without any additional complexities.
 
 def add(x, y):
     """Addition"""
