@@ -4,7 +4,7 @@
 # Chapter 5: Hash Tables
 
 # Simple Calculator: This calculator provides a simple command-line interface where the user selects an operation 
-# (addition, subtraction, multiplication, or division) and enters two numbers to perform the selected operation. 
+# (addition, subtraction, multiplication, division or Polynomial Evaluation) and enters two numbers to perform the selected operation. 
 
 def add(x, y):
     """Addition"""
